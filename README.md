@@ -1,6 +1,4 @@
-Based on the available information, here's a suggested `README.md` file for your Movie Recommendation System project:
 
-```markdown
 # Movie Recommendation System
 
 Welcome to the Movie Recommendation System! This project aims to provide personalized movie recommendations to users based on their preferences and viewing history.
