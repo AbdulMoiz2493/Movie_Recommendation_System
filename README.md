@@ -5,9 +5,15 @@ Welcome to the Movie Recommendation System! This project aims to provide persona
 
 ## Features
 
-- **Personalized Recommendations**: Get movie suggestions tailored to your tastes.
-- **Search Functionality**: Look up movies by title, genre, or actor.
-- **User Profiles**: Create and manage your own user profile to receive better recommendations.
+- **User Authentication**: Secure user authentication with login and registration (`auth.controller.js`).
+- **Personalized Movie Recommendations**: Get AI-driven movie suggestions based on viewing history (`movie.controller.js`).
+- **Movie Management**: Add, update, and delete movies (`movie.controller.js`).
+- **User Profile Management**: Update user profiles, preferences, and watch history (`user.controller.js`).
+- **Wishlist Feature**: Save favorite movies to a wishlist for future viewing (`wishlist.controller.js`).
+- **News & Updates**: Stay informed with movie-related news and announcements (`news.controller.js`).
+- **Community & Discussions**: Engage in community discussions and reviews (`communities.controller.js`).
+- **Notifications**: Get alerts for new recommendations, messages, and updates (`notification.controller.js`).
+- **Admin Dashboard**: Manage users, movies, and content through an admin panel (`admin.controller.js`).
 
 ## Installation
 
